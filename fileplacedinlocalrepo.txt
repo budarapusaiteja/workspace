@@ -1,0 +1,4 @@
+clone using url - https
+then we can find
+global repository in local repository
+copy files to this folder
